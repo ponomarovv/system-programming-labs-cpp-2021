@@ -1,0 +1,64 @@
+5
+
+multiple
+Виберіть кафедри ФІОТу:
+5
+ФІОТу не існує
+ОТ
+АУТС
+ТК
+АСОІУ
+4
+ОТ
+АСОІУ
+ТК
+ОТ
+10
+
+multiple
+Виберіть мови програмування:
+13
+Ruby
+HTML
+CSS
+JS
+PHP
+Pascal
+C#
+Java
+Python
+English
+Ukrainian
+Brainfuck
+Polish
+8
+Ruby
+JS
+PHP
+Pascal
+C#
+Java
+Python
+Brainfuck
+20
+
+non-multiple
+АУТС існує?
+2
+Так
+Ні
+Ні
+5
+
+text-field
+if (canUnderstandProgrammingLanguage) type("Yes")
+Yes
+1
+
+non-multiple
+Виберіть правильну відповідь:
+2
+1
+0
+1
+10

@@ -1,0 +1,2 @@
+put data into a file in the next format:
+code | breakingType | modelCode | firstPartCode | secondPartCode | thirdPartCode | price | repairMethod | description

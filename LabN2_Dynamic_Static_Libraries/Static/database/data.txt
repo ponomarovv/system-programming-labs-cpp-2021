@@ -1,0 +1,5 @@
+1 | 1 | 927 | 0 | 0 | 0 | 5000 | fix | The processor was fired up
+2 | 2 | 100 | 0 | 0 | 0 | 1000 | repair | desc
+3 | 3 | 228 | 0 | 0 | 0 | 1000 | repair | Bastylo Ivan
+4 | 4 | 563 | 0 | 0 | 0 | 1000 | repair | desc
+5 | 0 | 45 | 0 | 0 | 0 | 1000 | repair | another
