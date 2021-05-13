@@ -20,7 +20,10 @@ class MainWindow : public QMainWindow
         void exit();
 
     private:
-        const std::string LOCAL_IP = "10.0.2.15";
+//        const std::string LOCAL_IP = "10.0.2.15"; // this one to use two virtual machines with ubuntu
+//        const int PORT = 4444;
+
+        const std::string LOCAL_IP = "127.0.0.1";
         const int PORT = 4444;
 
         QPushButton *bStartServer;

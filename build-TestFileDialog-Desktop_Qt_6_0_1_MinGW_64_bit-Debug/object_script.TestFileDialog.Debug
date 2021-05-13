@@ -1,0 +1,13 @@
+debug/DataSource.o
+debug/FileDataSource.o
+debug/GroupBox.o
+debug/GroupBoxFactory.o
+debug/MultipleGroupBox.o
+debug/OnlyOneGroupBox.o
+debug/Question.o
+debug/QuestionFactory.o
+debug/Quiz.o
+debug/TextAnswerGroupBox.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_mainwindow.o

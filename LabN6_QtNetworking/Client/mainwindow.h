@@ -34,7 +34,10 @@ class MainWindow : public QMainWindow
         void exit();
 
     private:
-        const std::string LOCAL_HOST_IP = "192.168.0.107";
+//        const std::string LOCAL_HOST_IP = "192.168.0.107"; // this one to use two virtual machines with ubuntu
+//        const int PORT = 4444;
+
+        const std::string LOCAL_HOST_IP = "127.0.0.1";
         const int PORT = 4444;
 
         QLayout *mainLayout;

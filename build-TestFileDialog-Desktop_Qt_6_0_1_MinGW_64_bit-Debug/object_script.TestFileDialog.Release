@@ -1,0 +1,13 @@
+release/DataSource.o
+release/FileDataSource.o
+release/GroupBox.o
+release/GroupBoxFactory.o
+release/MultipleGroupBox.o
+release/OnlyOneGroupBox.o
+release/Question.o
+release/QuestionFactory.o
+release/Quiz.o
+release/TextAnswerGroupBox.o
+release/main.o
+release/mainwindow.o
+release/moc_mainwindow.o
